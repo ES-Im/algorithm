@@ -1,8 +1,8 @@
 package baekjoon;
 
 import java.util.Scanner;
-
-public class N5597RuntimeErr {
+// 과제 안 내신 분..?
+public class N5597 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] all = new int[30];

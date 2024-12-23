@@ -1,7 +1,7 @@
 package baekjoon;
 
 import java.util.*;
-
+// 과제 안 내신 분..?
 public class N5597Deque {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
